@@ -1,0 +1,33 @@
+.card{
+    border: rgb( 230, 233, 237) solid 4px;
+    border-radius: 30px;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 20%;
+    margin-top: 4%;
+    background-image: linear-gradient(rgb( 79, 193, 233),rgb(128, 103, 183) );
+}
+img{
+    height: 20rem;
+    margin-top: 9.5%;
+    border: black solid 2px;
+    border-radius: 30px;
+    margin-left: 5%;
+    margin-bottom: 3%;
+}
+.informations{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+.title{
+    font-size: 250%;
+    margin-bottom: 5%;
+    margin-top: -5%;
+}
+.content{
+    margin-left: -9.5%;
+}

@@ -1,0 +1,26 @@
+.app{
+    display: flex;
+    flex-direction: column;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.prev{
+    position: absolute;
+    height: 4rem;
+    width: 4rem;
+    margin-top: 15%;
+    margin-left: 18%;
+    margin-right: -20%;
+}
+.next{
+    position: absolute;
+    height: 4rem;
+    width: 4rem;
+    margin-top: 15%;
+    margin-left: 77%;
+}
+.navs{
+    margin-left: 8%;
+}
